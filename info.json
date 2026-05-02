@@ -1,0 +1,12 @@
+{
+  "name": "coldchainrework",
+  "version": "0.4.0",
+  "title": "Cold Chain Rework",
+  "author": "Kabury, forked from Pybren, forked from LightningMaster",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds a series of refrigeration technologies to help you complete the full cold chain logistics!",
+  "factorio_version": "2.0",
+  "spoiling_required": true,
+  "dependencies": ["base >= 2.0.2", "klib", "? space-age", "? pypostprocessing"]
+}
